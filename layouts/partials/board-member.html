@@ -27,7 +27,9 @@
 </style>
 
 <div class="board-member">
-    <img src="{{ with .Resources.GetMatch "image.jpg"}}{{ .RelPermalink }} {{ end }}" alt="{{ .Title }}">
+  {{ $image := .Resources.GetMatch "image.jpg" }}
+  {{ $image := $image.Fill "150x150" }}
+    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
     <div class="board-member-info">
       <h3>{{ .Title }}</h3>
       <p>{{ .Params.role }}</p>
