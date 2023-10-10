@@ -1,8 +1,0 @@
-{{ define "main" }}
-<h1>Board Members</h1>
-<div class="board-members">
-  {{ range .Pages | shuffle }}
-    {{ partial "board-member.html" . }}
-  {{ end }}
-</div>
-{{ end }}
