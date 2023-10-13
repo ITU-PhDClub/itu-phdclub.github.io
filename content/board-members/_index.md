@@ -1,4 +1,0 @@
----
-title: Board
-menu: main
----
