@@ -51,6 +51,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/USERNAME
+- icon: envelope
+  icon_pack: fab
+  link: 'mailto:lawe@itu.dk'
 - icon: linkedin
   icon_pack: fab
   link: 'https://www.linkedin.com/in/lauraweihl/'
