@@ -7,7 +7,7 @@ event_url:
 location: IT-University of Copenhagen, 2F13
 address:
   street: Kaj Munks Vej 11
-  city: København
+  city: Copenhagen
   region:
   postcode: 2300
   country: Denmark
