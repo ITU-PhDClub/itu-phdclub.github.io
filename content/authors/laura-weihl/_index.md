@@ -52,7 +52,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/USERNAME
 - icon: envelope
-  icon_pack: fab
+  icon_pack: fas
   link: 'mailto:lawe@itu.dk'
 - icon: linkedin
   icon_pack: fab
