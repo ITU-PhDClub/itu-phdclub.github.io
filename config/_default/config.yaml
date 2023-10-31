@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ITU PhD Club # Website name
-baseURL: 'https://itu-phdclub.github.io/website' # Website URL
+baseURL: 'https://phbclub.itu.dk' # Website URL
 
 ############################
 ## LANGUAGE
@@ -24,6 +24,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
       disable: true
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+      disable: true
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
@@ -44,7 +45,8 @@ permalinks:
   #publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  #home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
