@@ -31,8 +31,8 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-11-13T13:13:00+01:00
-date_end: 2023-11-13T13:14:00+01:00
+date: 2023-11-13T13:00:00+01:00
+date_end: 2023-11-13T14:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
