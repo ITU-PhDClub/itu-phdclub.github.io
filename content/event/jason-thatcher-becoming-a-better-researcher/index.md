@@ -57,7 +57,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://ituniversity.sharepoint.com/:v:/r/sites/PhDClub/Shared%20Documents/Events/recordings/thatcher-talk-becoming-a-better-researcher-while-thriving.mov?csf=1&web=1&e=2utzaQ
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
