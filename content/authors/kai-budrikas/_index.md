@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Sebastian Mateos Nicolajsen"
+title: "Kai Budrikas"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "sebastian-nicolajsen"
+- "kai-budrikas"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Board Member
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
