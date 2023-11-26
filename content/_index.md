@@ -71,5 +71,5 @@ sections:
 
   - block: markdown
     content:
-      text: '{{< figure src="./pand.png" link="https://phddenmark.dk">}}'
+      text: '{{< figure src="pand.png" link="https://phddenmark.dk">}}'
 ---
