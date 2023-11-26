@@ -1,0 +1,29 @@
+{{ if .IsTranslated | and site.Params.footer.show_translations }}
+<div >
+  <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>{{ i18n "languages" }}:</div>
+  <div class="p-2">{{ index site.Data.i18n.languages .Lang }}</div>
+  {{ range .Translations }}
+  <div class="p-2"><a href="{{ .Permalink }}">{{ index site.Data.i18n.languages .Lang }}</a></div>
+  {{ end }}
+</div>
+{{ end }}
+
+{{ if (site.GetPage "/privacy") }}
+<p class="powered-by">
+  {{ with site.GetPage "/privacy" }}
+  {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  {{ end }}
+
+</p>
+{{ end }}
+
+{{ with site.Params.footer.text }}
+<p class="powered-by">
+  {{ . | markdownify | emojify }}
+</p>
+{{ end }}
+<div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+  <a href="uploads\PhD Club Constitution.pdf">PhD Club Constitution</a>
+</div>
+{{/* Display copyright license. */}}
+{{ partial "site_footer_license" . }}
