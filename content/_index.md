@@ -69,4 +69,7 @@ sections:
       # Show user's organizations/affiliations?
       show_organizations: true
 
+  - block: markdown
+    content:
+      text: '{{< figure src="pand.png" link="https://phddenmark.dk">}}'
 ---
