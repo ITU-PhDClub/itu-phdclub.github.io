@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ITU PhD Club # Website name
-baseURL: 'https://phbclub.itu.dk' # Website URL
+baseURL: '//phbclub.itu.dk/' # Website URL
 
 ############################
 ## LANGUAGE
