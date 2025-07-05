@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -44,9 +44,8 @@ header:
 # Site footer
 
 footer:
-  block: phdclub
   copyright:
-    notice: '© {year} ITU PhD Club'
+    notice: '© {year} ITU PhD Club. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
@@ -64,12 +63,12 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
@@ -106,9 +105,9 @@ features:
 # Extensions
 
 extensions:
-  # cms:
-  #   branch: main
-  #   local_backend: false
+  decap_cms:
+    branch: main
+    local_backend: false
   academicons:
     enable: true
 
@@ -117,3 +116,4 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
