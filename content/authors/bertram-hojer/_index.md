@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Laura Weihl"
+title: "Bertram Højer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "laura-weihl"
+- "bertram-hojer"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Chair
+role: Board Member
 
 # # Organizations/Affiliations
 # organizations:
@@ -39,32 +39,23 @@ role: Chair
 # #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=PERSON-ID
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/USERNAME
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lawe@itu.dk'
+  link: 'mailto:berh@itu.dk'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/lauraweihl/'
-- icon: internet-explorer
-  icon_pack: fab
-  link: 'https://teams.microsoft.com/l/chat/0/0?users=lawe@itu.dk'
-# # Link to a PDF of your resume/CV from the About widget.
-# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# # - icon: cv
-# #   icon_pack: ai
-# #   link: files/cv.pdf
+  link: 'https://www.linkedin.com/in/bertram-højer-68b512219/'
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0009-0002-2990-8752'
+# - icon: github
+#   icon_pack: fab
+#   link: ...
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

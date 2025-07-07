@@ -1,21 +1,26 @@
 ---
 # Display name
-title: "Kasper Hjort Berthelsen"
+title: "Robert Bayer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "kasper-hjort-berthelsen"
+- "robert-bayer"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Vice Chair
+role: Board Member
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: 
+# Organizations/Affiliations
+organizations:
+- name: 
+  url: ""
 
-# # List each interest with a dash
+# Short bio (displayed in user profile at end of posts)
+bio: 
+
+# List each interest with a dash
 # interests:
 # - Interest 1
 # - Interest 2
@@ -36,22 +41,13 @@ role: Vice Chair
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:khjo@itu.dk'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/flapkap
+  link: 'mailto:roba@itu.dk'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/kasperhjortberthelsen/'
-- icon: internet-explorer
-  icon_pack: fab
-  link: 'https://teams.microsoft.com/l/chat/0/0?users=khjo@itu.dk'
+  link: 'https://www.linkedin.com/in/robo-bayer/'
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.com/citations?user=bpWCPPoAAAAJ'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
