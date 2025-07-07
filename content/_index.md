@@ -20,7 +20,7 @@ sections:
       text: | 
         The ITU PhD Club was founded in 2023 by a group of enthusiastic PhD students who aimed to build a more active and connected PhD community at ITU. Following a series of initiatives, the society held its founding meeting on 24 November 2023, adopted an official <a href="/uploads/PhD%20Club%20Constitution.pdf" target="_blank" rel="noopener">constitution</a>, and appointed the first board of the PhD Club.
         
-        Since then, the club has organized a variety of events -- from academic talks to social events outside of the university. As an advocate for the interests and well-being of PhD students at ITU, the club is often also involved in making changes within the university as well as on a national level through its membership in PAND (the PhD Association Network of Denmark). To smoothen the process of settling in at ITU, the PhD Club has also put together a [helpful guide for settling in](https://ituniversity.sharepoint.com/:w:/s/PhDClub-Committee/EZGVwblzntFLpmQL8puSTcIBxisPNLE6KdagLXZ_3Rie0A).
+        Since then, the club has organized a variety of events -- from academic talks to social events outside of the university. As an advocate for the interests and well-being of PhD students at ITU, the club is often also involved in making changes within the university as well as on a national level through its membership in PAND (the PhD Association Network of Denmark). To smoothen the process of settling in at ITU, the PhD Club has also put together a [helpful guide for it](https://ituniversity.sharepoint.com/:w:/s/PhDClub-Committee/EZGVwblzntFLpmQL8puSTcIBxisPNLE6KdagLXZ_3Rie0A).
 
     design:
       columns: "1"
