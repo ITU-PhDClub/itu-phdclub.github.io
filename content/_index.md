@@ -24,7 +24,7 @@ sections:
 
     design:
       columns: "1"
-      css_class: justify-text
+      css_class: justify-text about-us-section
       background:
         image:
           filename: /background.jpg

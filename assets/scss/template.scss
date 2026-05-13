@@ -12,3 +12,8 @@
 .justify-text {
   text-align: justify;
 }
+
+// About Us has a dark background image — keep text white in both light and dark mode
+.about-us-section * {
+  color: #fff !important;
+}

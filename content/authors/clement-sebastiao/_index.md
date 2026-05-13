@@ -12,8 +12,8 @@ superuser: false
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Treasurer
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: 
+# Short bio (displayed in user profile at end of posts)
+bio: PhD student in the NERDS group and affiliated with the Center for Climate IT.
 
 # # List each interest with a dash
 # interests:

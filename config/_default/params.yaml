@@ -8,8 +8,9 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
+  font: minimal
   font_size: L
+  mode: dark
 
 # SEO
 
@@ -18,7 +19,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'PhD Club'
-    description: 'A PhD Club at ITU for PhD Students'
+    description: 'A Social Club for PhD Students at ITU'
     twitter: ''
   analytics:
     google_analytics: ''

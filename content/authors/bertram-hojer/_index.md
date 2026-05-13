@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Board Member
+role: Vice Chair
 
 # # Organizations/Affiliations
 # organizations:
 # - name: 
 #   url: ""
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: 
+# Short bio (displayed in user profile at end of posts)
+bio: PhD student in the NLPnorth group.
 
 # # List each interest with a dash
 # interests:
